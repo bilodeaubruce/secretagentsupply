@@ -1,0 +1,18 @@
+
+body {
+  background-color: ccc;
+}
+
+.topbar {
+  display: flex;
+  background-color: black;
+  color:white;
+  align-items: center;
+  padding: 14px 0px 14px 0px;
+  width: 960px;
+
+}
+.topbar img {
+  height:30px;
+
+}
